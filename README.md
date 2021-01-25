@@ -6,14 +6,14 @@
 <a href="https://www.youtube.com/watch?v=kO8x8eoU3L4">
     <img align="right" width="350"  src="./Assets/haha.gif" />
 </a>
-
+<br/>
 
 - 🔭 I’m currently working on a chrome extension<br/>
 - 🌱 I’m currently learning GraphQL and enhancing my competitive programming skills<br/>
 - 💬 Available for freelance projects and internship opportunities<br/>
 - ⚡ Fun fact: Big fan of the&nbsp;<img width="20"  src="./Assets/moon.png" /> emoji
 
-<br/>
+<br/><br/>
 
 ### 🛠️&nbsp;Languages and Tools
 
