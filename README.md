@@ -7,7 +7,7 @@
     <img align="right" width="350"  src="./Assets/haha.gif" />
 </a>
 
-<br/>
+
 - 🔭 I’m currently working on a chrome extension<br/>
 - 🌱 I’m currently learning GraphQL and enhancing my competitive programming skills<br/>
 - 💬 Available for freelance projects and internship opportunities<br/>
