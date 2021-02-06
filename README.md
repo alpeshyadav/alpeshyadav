@@ -45,7 +45,7 @@
 ### 📊&nbsp;Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 28 January, 2021 - 04 February, 2021
+Week: 29 January, 2021 - 05 February, 2021
 
 HTML         3 hrs 12 mins   ██████████████░░░░░░░░░░░   56.41 % 
 JavaScript   1 hr 35 mins    ███████░░░░░░░░░░░░░░░░░░   28.04 % 
