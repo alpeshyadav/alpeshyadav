@@ -45,7 +45,7 @@
 ### 📊&nbsp;Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 07 February, 2021 - 14 February, 2021
+Week: 08 February, 2021 - 15 February, 2021
 
 Python      1 hr 6 mins     █████████████░░░░░░░░░░░░   52.59 % 
 Text        29 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.08 % 
