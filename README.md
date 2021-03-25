@@ -45,7 +45,9 @@
 ### 📊&nbsp;Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 17 March, 2021 - 24 March, 2021
+
+C#      23 mins         ████████████████████████▓   99.01 % 
 ```
 <!--END_SECTION:waka-->
 
