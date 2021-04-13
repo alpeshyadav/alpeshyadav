@@ -45,9 +45,9 @@
 ### 📊&nbsp;Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 04 April, 2021 - 11 April, 2021
+Week: 05 April, 2021 - 12 April, 2021
 
-Python   5 hrs 31 mins   █████████████████████████   100.00 % 
+Python   8 hrs 19 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
