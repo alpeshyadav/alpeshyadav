@@ -45,10 +45,7 @@
 ### 📊&nbsp;Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 30 June, 2021 - 06 July, 2021
-
-Python       14 mins         ███████████████░░░░░░░░░░   60.29 % 
-JavaScript   9 mins          ██████████░░░░░░░░░░░░░░░   39.71 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
