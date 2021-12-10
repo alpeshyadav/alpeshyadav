@@ -45,7 +45,7 @@
 ### 📊&nbsp;Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 02 December, 2021 - 08 December, 2021
+Week: 03 December, 2021 - 09 December, 2021
 
 JavaScript   4 hrs 34 mins   ███████████████████▓░░░░░   78.44 % 
 TypeScript   25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
