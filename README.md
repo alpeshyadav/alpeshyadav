@@ -45,7 +45,7 @@
 ### 📊&nbsp;Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 24 December, 2021 - 30 December, 2021
+Week: 25 December, 2021 - 31 December, 2021
 
 JavaScript   4 hrs 34 mins   ███████████████████▓░░░░░   79.20 % 
 Python       47 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 % 
