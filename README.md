@@ -45,11 +45,7 @@
 ### 📊&nbsp;Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 27 December, 2021 - 02 January, 2022
-
-JavaScript   1 hr 20 mins    ███████████████████▒░░░░░   76.79 % 
-HTML         12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-JSON         11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
