@@ -45,11 +45,7 @@
 ### 📊&nbsp;Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2022 - 17 February, 2022
-
-Total: 46 mins
-
-JavaScript   46 mins         █████████████████████████   99.90 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
