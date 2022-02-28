@@ -44,9 +44,15 @@
 
 ### 📊&nbsp;Weekly development breakdown
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+From: 20 February 2022 - To: 27 February 2022
+
+JavaScript   2 hrs 35 mins   ███████████████████████▓░   95.11 %
+JSON         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
+
 <!--END_SECTION:waka-->
 
 ### Let's connect! Find me on the web...&nbsp;<img width="20"  src="./Assets/moon.png" />
