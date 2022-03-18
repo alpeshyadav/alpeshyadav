@@ -46,12 +46,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 March 2022 - To: 16 March 2022
+From: 10 March 2022 - To: 17 March 2022
 
-JavaScript   13 hrs 11 mins  ██████████████████████░░░   88.18 %
-Text         1 hr 26 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
-CSS          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+JavaScript   15 hrs 20 mins  █████████████████████▓░░░   87.30 %
+Text         1 hr 54 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+CSS          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
