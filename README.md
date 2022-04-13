@@ -46,7 +46,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 April 2022 - To: 11 April 2022
+From: 05 April 2022 - To: 12 April 2022
 
 Python   1 hr 24 mins    ████████████████████████░   95.78 %
 Other    3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
