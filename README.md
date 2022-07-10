@@ -46,7 +46,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 July 2022 - To: 08 July 2022
+From: 02 July 2022 - To: 09 July 2022
 
 Python   2 hrs 2 mins    ████████████████████████░   96.33 %
 JSON     4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
