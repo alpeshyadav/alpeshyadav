@@ -46,7 +46,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 August 2022 - To: 13 August 2022
+From: 07 August 2022 - To: 14 August 2022
 
 Java   3 hrs 18 mins   ████████████████████████▒   96.87 %
 CSS    5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
