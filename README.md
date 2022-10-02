@@ -46,11 +46,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 September 2022 - To: 30 September 2022
-
-Python    43 mins         █████████████▒░░░░░░░░░░░   52.85 %
-RPMSpec   33 mins         ██████████▒░░░░░░░░░░░░░░   41.01 %
-Other     5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
