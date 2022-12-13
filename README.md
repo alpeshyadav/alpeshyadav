@@ -46,7 +46,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 05 December 2022 - To: 12 December 2022
+
+JavaScript   2 hrs 21 mins   ███████████████░░░░░░░░░░   60.52 %
+TypeScript   1 hr 31 mins    █████████▓░░░░░░░░░░░░░░░   38.94 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
