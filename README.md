@@ -46,11 +46,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 December 2022 - To: 23 December 2022
-
-JavaScript   9 mins          ███████████████▓░░░░░░░░░   62.90 %
-HTML         5 mins          █████████▒░░░░░░░░░░░░░░░   36.87 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
