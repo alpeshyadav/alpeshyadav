@@ -46,13 +46,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 January 2023 - To: 03 February 2023
+From: 28 January 2023 - To: 04 February 2023
 
-Python       15 hrs 15 mins  █████████████████████▓░░░   86.57 %
-Batchfile    1 hr 34 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
-Text         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-Bash         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-TypeScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Python       13 hrs 8 mins   █████████████████████▒░░░   84.73 %
+Batchfile    1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
+Text         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Bash         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+TypeScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 ```
 
 <!--END_SECTION:waka-->
