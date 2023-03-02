@@ -46,11 +46,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 February 2023 - To: 28 February 2023
+From: 22 February 2023 - To: 01 March 2023
 
-Python     47 mins         █████████████████▒░░░░░░░   69.71 %
-HTML       20 mins         ███████▓░░░░░░░░░░░░░░░░░   30.19 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Python     31 mins         ███████████████░░░░░░░░░░   60.35 %
+HTML       20 mins         ██████████░░░░░░░░░░░░░░░   39.52 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
