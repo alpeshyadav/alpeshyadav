@@ -46,7 +46,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 May 2023 - To: 30 May 2023
+From: 24 May 2023 - To: 31 May 2023
 
 Bash         26 mins         ███████████░░░░░░░░░░░░░░   43.48 %
 TypeScript   12 mins         █████░░░░░░░░░░░░░░░░░░░░   19.48 %
