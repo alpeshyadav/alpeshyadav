@@ -46,7 +46,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2023 - To: 05 June 2023
+From: 30 May 2023 - To: 06 June 2023
 
 JavaScript   1 hr 12 mins    ██████████▒░░░░░░░░░░░░░░   41.89 %
 YAML         1 hr 1 min      █████████░░░░░░░░░░░░░░░░   35.79 %
