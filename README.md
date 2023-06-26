@@ -46,11 +46,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2023 - To: 24 June 2023
+From: 18 June 2023 - To: 25 June 2023
 
-JavaScript   5 hrs 47 mins   ████████████████████████▒   97.00 %
-Text         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JavaScript   4 hrs 40 mins   ████████████████████████▓   98.23 %
+Text         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 ```
 
 <!--END_SECTION:waka-->
