@@ -46,12 +46,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 July 2023 - To: 19 July 2023
+From: 13 July 2023 - To: 20 July 2023
 
-TypeScript   5 hrs 26 mins   ██████████████████▓░░░░░░   75.06 %
-JavaScript   1 hr 3 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
-TSConfig     34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
-JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+TypeScript   5 hrs 21 mins   ███████████████████▓░░░░░   78.49 %
+JavaScript   56 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
+TSConfig     24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
