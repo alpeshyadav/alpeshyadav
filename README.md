@@ -46,10 +46,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 October 2023 - To: 07 November 2023
+From: 01 November 2023 - To: 08 November 2023
 
-TypeScript   2 hrs 49 mins   █████████████████████████   99.71 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+TypeScript   3 hrs 12 mins   ████████████████████████▓   98.03 %
+Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
